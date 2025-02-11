@@ -36,7 +36,7 @@ This project is a **House Rent App** built with the **MERN stack** (MongoDB, Exp
 Clone the repository to your local machine:
 
 ```bash
-git 
+git https://github.com/ricky6363/House_rental-application.git
 ```
 #### Step 2: Backend Setup
 Navigate to the backend directory:
